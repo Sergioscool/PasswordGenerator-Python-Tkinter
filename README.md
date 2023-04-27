@@ -1,1 +1,1 @@
-# PasswordGenrator-Python-Tkinter
+# PasswordGenerator-Python-Tkinter
